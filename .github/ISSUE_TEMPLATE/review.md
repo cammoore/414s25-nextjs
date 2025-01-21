@@ -38,4 +38,4 @@ Day, Month Day Time
 
 ## For more information
 
-The review process is documented at: http://courses.ics.hawaii.edu/ics414s25/morea/review/reading-idpm-review.html
+The review process is documented at: [IDPM Review](http://courses.ics.hawaii.edu/ics414s25/morea/review/reading-idpm-review.html)
