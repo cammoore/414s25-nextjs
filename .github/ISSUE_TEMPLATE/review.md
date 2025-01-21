@@ -25,12 +25,12 @@ review-xxx
 
 ## Checklists
 
-* [Architecture](../../checklists/architecture-checklist.md)
-* [Design](../../checklists/design-checklist.md)
-* [React](../../checklists/react-checklist.md)
-* [Testing](../../checklists/testing-checklist.md)
-* [Typescript](../../checklists/ts-checklist.md)
-* [UI](../../checklists/ui-checklist.md)
+* [Architecture](../tree/main/checklists/architecture-checklist.md)
+* [Design](../tree/main/checklists/design-checklist.md)
+* [React](../tree/main/checklists/react-checklist.md)
+* [Testing](../tree/main/checklists/testing-checklist.md)
+* [Typescript](../tree/main/checklists/ts-checklist.md)
+* [UI](../tree/main/checklists/ui-checklist.md)
 
 ## Due date
 
